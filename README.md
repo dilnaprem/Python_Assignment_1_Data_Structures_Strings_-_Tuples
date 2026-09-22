@@ -29,5 +29,3 @@ This assignment covers basic Python **Strings and Tuples**, completed using **Go
 ## Learning Outcome
 
 Practiced basic string and tuple operations using Python.
-
-**Dilna P**
